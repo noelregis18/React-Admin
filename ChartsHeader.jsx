@@ -11,3 +11,4 @@ const ChartsHeader = ({ category, title }) => (
 );
 
 export default ChartsHeader;
+
