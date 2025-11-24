@@ -35,3 +35,4 @@ class SparkLine extends React.PureComponent {
 }
 
 export default SparkLine;
+
